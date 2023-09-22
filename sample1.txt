@@ -1,2 +1,6 @@
 this is sample repo
+<<<<<<< Updated upstream
 iiz jo
+=======
+but i don't know
+>>>>>>> Stashed changes
